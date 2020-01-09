@@ -1,8 +1,10 @@
 ---
 layout: post
-title: First post!
+title: Zika Virus Build Project
+
 image: /img/hello_world.jpeg
 ---
+
 ![Image of Yaktocat](/img/hello_world.jpeg)
 
 
