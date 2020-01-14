@@ -59,17 +59,17 @@ It appears that the spread of Zika in the U.S. is not as restricted to the abili
 The research done by the CDC appears to support this as well. They noted that most of the cases of Zika that they recorded appear to have been something contracted while a person was traveling outside of the U.S. and then brought back with them when they were not yet displaying symptoms. 
 
 ## Sources
-* Colab Notebook = https://colab.research.google.com/drive/1OHDpbvHBIptXLAtVTuAtdnczDuwjx5AE
-* CDC Overview of Zika: https://www.cdc.gov/zika/about/overview.html
-* CDC Symptoms, Testing, and Treatment of Zika: https://www.cdc.gov/zika/symptoms/index.html
-* CDC U.S. Zika Cases 2016: https://www.cdc.gov/zika/reporting/2016-case-counts.html
-* CDC U.S. Zika Cases 2017: https://www.cdc.gov/zika/reporting/2017-case-counts.html
-* Buzzfeed Source = https://github.com/BuzzFeedNews/zika-data
-* September 28th 2016 = 'https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2016-09-28.csv'
-* October 26th 2016  = 'https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2016-10-26.csv'
-* November 30th 2016 = 'https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2016-11-30.csv'
-* December 28th 2016 = 'https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2016-12-28.csv'
-* January 25th 2017 = 'https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2017-01-25.csv'
-* February 22nd 2017 = 'https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2017-02-22.csv'
-* March 29th 2017 = 'https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2017-03-29.csv'
-* April 26th 2017 = 'https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2017-04-26.csv'
+* [Colab Notebook](https://colab.research.google.com/drive/1OHDpbvHBIptXLAtVTuAtdnczDuwjx5AE)
+* [CDC Overview of Zika](https://www.cdc.gov/zika/about/overview.html)
+* [CDC Symptoms, Testing, and Treatment of Zika](https://www.cdc.gov/zika/symptoms/index.html)
+* [CDC U.S. Zika Cases 2016](https://www.cdc.gov/zika/reporting/2016-case-counts.html)
+* [CDC U.S. Zika Cases 2017](https://www.cdc.gov/zika/reporting/2017-case-counts.html)
+* [Buzzfeed Source](https://github.com/BuzzFeedNews/zika-data)
+* [September 28th 2016 Dataset](https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2016-09-28.csv)
+* [October 26th 2016 Dataset](https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2016-10-26.csv)
+* [November 30th 2016 Dataset](https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2016-11-30.csv)
+* [December 28th 2016 Dataset](https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2016-12-28.csv)
+* [January 25th 2017 Dataset](https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2017-01-25.csv)
+* [February 22nd 2017 Dataset](https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2017-02-22.csv)
+* [March 29th 2017 Dataset](https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2017-03-29.csv)
+* [April 26th 2017 Dataset](https://raw.githubusercontent.com/BuzzFeedNews/zika-data/master/data/parsed/cdc/cdc-state-case-counts-2017-04-26.csv)
