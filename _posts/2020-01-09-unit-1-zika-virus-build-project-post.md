@@ -5,8 +5,6 @@ title: Zika Virus Build Project
 image: /img/hello_world.jpeg
 ---
 
-![Image of Yaktocat](/img/hello_world.jpeg)
-
 ![Zika Epidemic Headlines](/img/Zika Epidemic Headlines.jpg)
 
 ## Introduction
