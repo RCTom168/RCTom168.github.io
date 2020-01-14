@@ -46,6 +46,9 @@ However, the primary danger with the Zika virus that is well-publicized in the m
 The most prevalent of these is microcephaly, a condition in which the brain of a baby does not develop properly and results in a smaller than normal head. Babies born with this condition can grow up with intellectual problems, brain damage, seizures, vision and hearing deficits, and overall slow development.
 
 ## Research Topic
+
+![Zika Virus News Bulletin](/img/Zika Virus News Bulletin.jpg)
+
 ### Datasets
 The Zika Virus Epidemic of 2015 - 2016 brought the Zika virus into the public eye. The first major cases of Zika began to appear in the U.S. at the beginning of 2016.  
 
