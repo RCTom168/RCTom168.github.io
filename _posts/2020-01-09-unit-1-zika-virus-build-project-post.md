@@ -22,16 +22,18 @@ The Zika virus derives its name from the Zika Forest in Uganda. It is a part of 
 ![Zika Virus Observation](/img/Zika Virus Observation.jpg)
 
 
-![Yellow Fever Mosquito](/img/Yellow Fever Mosquito.jpg)
+
 
 It’s primary disease vectors are members of the Aedes genus of mosquito, such as the Yellow Fever Mosquito & the Asian Tiger Mosquito. Historically these mosquitos were confined to a narrow tropical and subtropical area around the equator, but due to climate change and human activity, they are now found all over the world, bringing diseases such as Zika with them.  
 
+![Yellow Fever Mosquito](/img/Yellow Fever Mosquito.jpg)
 ![Asian Tiger Mosquito](/img/Asian Tiger Mosquito.jpg)
 
-![Zika Red Eye](/img/Zika Red Eye.jpg)
 
 ## Effects of the Zika Virus
 The Zika fever is the infectious disease that a person infected with the Zika virus experiences. Some people may suffer no symptoms and those that do usually only get mild discomfort from things such as a fever, headache, and a rash.  
+
+![Zika Red Eye](/img/Zika Red Eye.jpg)
 
 ![Zika Rash](/img/Zika Rash.jpg)
 
