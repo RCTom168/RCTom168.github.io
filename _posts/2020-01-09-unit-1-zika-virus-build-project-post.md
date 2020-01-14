@@ -7,6 +7,8 @@ image: /img/hello_world.jpeg
 
 ![Image of Yaktocat](/img/hello_world.jpeg)
 
+![Zika Virus News Bulletin](/img/Zika Virus News Bulletin.jpg)
+
 ## Introduction
 In the last half-century, the name “_Zika_” has grown from an obscure word to something that invokes a feeling of unease and dread. Travel warnings have been issued as governments and international organizations work to find solutions for the disease.  
 
