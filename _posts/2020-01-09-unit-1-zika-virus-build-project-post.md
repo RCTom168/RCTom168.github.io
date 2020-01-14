@@ -15,13 +15,13 @@ This is my first post, how exciting!
 - bulletted
 - list
 
-Introduction
-The Zika Virus
-Effects of the Zika Virus
-Research Topic
-Datasets
-Question
-Hypothesis
-Reasoning
-Null Hypothesis
-Results
+## Introduction
+## The Zika Virus
+## Effects of the Zika Virus
+## Research Topic
+### Datasets
+### Question
+### Hypothesis
+### Reasoning
+### Null Hypothesis
+### Results
