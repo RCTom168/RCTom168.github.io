@@ -2,6 +2,9 @@
 layout: post
 title: UK Car Accidents Project
 
+image: /img/1024px-Flag_of_the_Governor_of_Hong_Kong_(1959–1997).svg.png
+---
+
 ## Introduction
 Traffic accidents are a risk that many of us encounter in our everyday lives. It is a sad reality that every time we step outside near a road, or commute to work there is a chance that we will be impacted by one. A person does not even have to be in a car to be affected.
 
