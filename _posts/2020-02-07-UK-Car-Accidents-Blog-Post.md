@@ -49,7 +49,7 @@ For the hour of the day, 6:00pm GMT is the time that you want to avoid if you do
 ![Car Accident Count Hour of the day.png](/img/Car Accident Count Hour of the day.png)
 
 
-For the age range of the drivers, it is overwhelmingly 26 - 35 year olds that get into car accidents. The next closest group, 36 - 45 year olds, trails behind quite far.
+For the age range of people, it is overwhelmingly 26 - 35 year olds that get into the most car accidents. The next closest group, 36 - 45 year olds, trails quite far behind.
 ![Age Range of People Car Accidents.png](/img/Age Range of People Car Accidents.png)
 
 
@@ -63,15 +63,17 @@ And of course, we have to look at feature importance.
 
 Unsurprisingly, the age of the driver and the age of the vehicle were in the top 5, as 3 & 4 respectively. It is easy to see how the experience and physical capabilities associated with a person's age can affect the outcome of a car accident. 
 
-Interestingly Engine Capacity and Local Authority District came in as the number 1 & number 2 features that affect the severity of a car accident. 
+Interestingly Engine Capacity and Local Authority District came in as the number 1 & number 2 features that affect car accident severity.
 
 Engine capacity in this case is most likely relating to the size of the car, with a larger capacity equating to a larger vehicle. 
 
-The Local Authority is referring the to local government that is in charge of the roads and road safety of a given area. It would seem that a local government's ability to properly maintain roads, signage, and general road safety measure has a very large impact on the severity of an accident.
+The Local Authority refers to the local government that is in charge of the roads and road safety of a given area. It would seem that a local government's ability to properly maintain roads, signage, and general road safety measures has a very large impact on the severity of an accident.
 
 ## Interpretations
-The United Kingdom has a lot of car accidents. Thanksfully, a vast majority of them result in little to know injuries for the people involved. But if you want to avoid an accident, it looks like you will want to avoid driving on a 30 MPH road around 6:00pm GMT on a Thursday in that old VW Beetle in that dodgy part of town.
+The United Kingdom has a lot of car accidents. Thanksfully, a vast majority of them result in little to know injuries for the people involved. But if you want to avoid an accident, it looks like you will want to avoid driving on a 30 MPH road around 6:00pm GMT on a Thursday in that old VW Beetle in that dodgy part of town. Especially if you are between the ages of 26 - 35.
 
 Instead, consider driving on a 70 mph road around 4:00am GMT on a Saturday in a relatively new, large engine capacity car in an area where the local government has done a good job maintaining the roads. 
 
-Drive safe!
+Of course, it is generally very difficult to make an accurate prediction about something as complex as this, so as a general rule, always follow the rules of the road. Drive safe!
+
+Source code: https://colab.research.google.com/drive/1bMQqQpEKn6JwgY-UOK_nGK9WxQsszOe4
