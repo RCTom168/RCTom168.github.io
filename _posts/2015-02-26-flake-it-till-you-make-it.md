@@ -71,3 +71,20 @@ Today, I will be breaking down, analyzing, and recreating the K-Nearest Neighbor
   Weighing by distance involves finding the mean inverse of the distances between each neighbor and calculating the class probabilities for each test data point.
 
   ![def predict_uniform.png](/img/def predict_uniform.png)
+
+
+## The Results
+  I was able to test my model against 3 Scikit Learn datasets:
+  
+The Breast Cancer dataset
+
+  ![breast_cancer_test.png](/img/breast_cancer_test.png)
+  
+  
+The Iris dataset
+  
+  ![iris_test.png](/img/iris_test.png)
+  
+and The Wine dataset
+  
+  ![wine_test.png](/img/wine_test.png)
