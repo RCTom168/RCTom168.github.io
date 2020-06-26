@@ -5,7 +5,7 @@ title: CS Build Week 1 LS K-Nearest Neighbors Model
 image: /img/1024px-Flag_of_the_Governor_of_Hong_Kong_(1959–1997).svg.png
 ---
 
-![KNN Visual.jpeg](/img/KNN Visual.jpeg)
+  ![KNN Visual.jpeg](/img/KNN Visual.jpeg)
 
 ## Introduction
   In the data science world, there are many different machine learning algorithms to choose from. Each one is unique in its function and complexity. 
@@ -27,17 +27,17 @@ Today, I will be breaking down, analyzing, and recreating the K-Nearest Neighbor
 ## Our reconstruction
   To begin we need to determine our variables, the amount of neighbors that we will measure data points against, and how the data points will be weighted against each other.
 
-![class LS_K_Nearest_Neighbors.png](/img/class LS_K_Nearest_Neighbors.png)
+  ![class LS_K_Nearest_Neighbors.png](/img/class LS_K_Nearest_Neighbors.png)
 
 
   To start our algorithm, we first need to determine the distance between 2 points. These points are the data points that we want to classify and the training point that we are using for comparison. For this, we are using the common Euclidian distance formula, but others could be used as well, such as the Manhattan distance formula.
  
-![def euclidian_distance.png](/img/def euclidian_distance.png)
+  ![def euclidian_distance.png](/img/def euclidian_distance.png)
 
 
   Of course, we want to make sure that the data is all fit to the model.
  
-![def fit.png](/img/def fit.png)
+  ![def fit.png](/img/def fit.png)
  
 
   Our next step is to find the neighbors that we want to check in with. A KNN model will only work if other data points can be located, and we need to work with the closest ones.
@@ -54,7 +54,7 @@ Today, I will be breaking down, analyzing, and recreating the K-Nearest Neighbor
 
   The sorted_neigh variable holds the first nearest neighbors of our test data points, sorted accordingly by their measured euclidian distances. From sorted_neigh, we extract the indicies and distance values and return them.
 
-![def kneighbors.png](/img/def kneighbors.png)
+  ![def kneighbors.png](/img/def kneighbors.png)
 
 
   Once the nearest neighbors have been located and measured, we use our predict function to attempt to predict the classes that each of our test data points belong to. 
@@ -65,12 +65,12 @@ Today, I will be breaking down, analyzing, and recreating the K-Nearest Neighbor
 
   The bincount function is then used to find the occurrences of the class labels,and to get the index that has the maximum occurrence. This index corresponds to the predicted class label.
 
-![def predict_distance.png](/img/def predict_distance.png)
+  ![def predict_distance.png](/img/def predict_distance.png)
 
 
   Weighing by distance involves finding the mean inverse of the distances between each neighbor and calculating the class probabilities for each test data point.
 
-![def predict_uniform.png](/img/def predict_uniform.png)
+  ![def predict_uniform.png](/img/def predict_uniform.png)
 
 ## The Results
   I was able to test my model against 3 Scikit Learn datasets:
