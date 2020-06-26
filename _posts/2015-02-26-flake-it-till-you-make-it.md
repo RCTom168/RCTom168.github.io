@@ -88,3 +88,8 @@ The Iris dataset
 and The Wine dataset
   
   ![wine_test.png](/img/wine_test.png)
+
+As we can see, the reconstruction has a pretty high accuracy level, and is pretty much equivalent to the standard model. From everything that we have gone over, we can see how, despite being a relatively simple machine learning algorithm, it is also quite powerful in predicting classification and regression for datasets. The K-Nearest Neighbors algorithm is a very useful tool to have for any data scientist.
+  
+
+Source code: https://colab.research.google.com/drive/1iRyXbqAFU610n39S_vbPRywGQAB1ewv2?usp=sharing
